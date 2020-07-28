@@ -1,0 +1,3 @@
+Enter Admin_Name:
+Enter Admin_Email_ID:
+Enter Admin_Location:
